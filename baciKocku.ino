@@ -8,7 +8,7 @@
 
 bool pusten = true; //taster je pusten na pocetku
 bool buttonStatus;
-bool buttonPin = 2;
+bool buttonPin = 3;
 
 int lcd_length = 16; // sirina je 16 karaktera
 int lcd_rows = 2; //ima dva reda

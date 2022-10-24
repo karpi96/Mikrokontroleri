@@ -1,6 +1,6 @@
 
-int crveniLed = 3;
-int zeleniLed = 4;
+int crveniLed = 2;
+int zeleniLed = 3;
 
 
 
